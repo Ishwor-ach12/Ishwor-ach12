@@ -1,8 +1,8 @@
 <h1 align="center">Wassup partner 👋, I'm Ishwor Acharya</h1>
-<h3 align="center">A passionate cyber security student</h3>
 <img align="center" alt="hacking" width="auto" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif">
+<h3 align="left" width="auto"> Exploiting the new vulnerabilites and flaws in the system is always a fun activity.. Let's dive into the world of cyber security!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwor-ach12&label=Profile%20views&color=0e75b6&style=flat" alt="ishwor-ach12" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=ishwor-ach12&label=Profile%20views&color=0e75b6&style=flat" alt="ishwor-ach12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwor-ach12" alt="ishwor-ach12" /></a> </p>
 
