@@ -1,6 +1,7 @@
-<video autoplay width="100%" height="fit-content">
+<!--<video autoplay width="100%" height="fit-content">
     <source src="https://aseblr-my.sharepoint.com/:v:/g/personal/bl_en_u4cse22088_bl_students_amrita_edu/EatZvvLnaM1KoxCfTiNW_YMBSvZ_-zs8J_4V53E5ZJDDGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XzQ9ES" type="video/mp4">
-</video>
+</video>-->
+<img src="https://aseblr-my.sharepoint.com/:i:/g/personal/bl_en_u4cse22088_bl_students_amrita_edu/EeIZ2Iz5XfhJsRxEhnH1QjYBZ4itoqZxf-VoETzsjd9SoQ?e=VrYBJy">
 <h1 align="center">Hi 👋, I'm Ishwor Acharya</h1>
 <h3 align="center">Enhancing Digital Security, One Test at a Time</h3>
 
