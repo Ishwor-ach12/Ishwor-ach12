@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwor-ach12" alt="ishwor-ach12" /></a> </p>
 
-- 🔭 I’m currently working on **Network traffic analysis**
+- 🛜 I’m currently working on **Network traffic analysis**
 
 - 🌱 I’m currently learning **penetration testing and vulnerability assessment**
 
