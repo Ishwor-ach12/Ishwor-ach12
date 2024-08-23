@@ -2,7 +2,7 @@
     <source src="https://aseblr-my.sharepoint.com/:v:/g/personal/bl_en_u4cse22088_bl_students_amrita_edu/EatZvvLnaM1KoxCfTiNW_YMBSvZ_-zs8J_4V53E5ZJDDGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XzQ9ES" type="video/mp4">
 </video>-->
 <img src="./asset.jpg" width="100%">
-<h1 align="center">Hi 👋, I'm Ishwor Acharya</h1>
+<h1 align="center">Hello 👋, I'm Ishwor Acharya</h1>
 <h3 align="center">Enhancing Digital Security, One Test at a Time</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwor-ach12" alt="ishwor-ach12" /></a> </p>
