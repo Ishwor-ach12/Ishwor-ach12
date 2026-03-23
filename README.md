@@ -14,6 +14,7 @@
 ### 🚀 About Me
 
 - 💻 I’m currently focused on **Software Development & Data Structures and Algorithms**
+- 🔐 Interested in Cybersecurity and Ethical Hacking concepts
 - 🌱 Learning **System Design, Backend Development, and Scalable Systems**
 - 👯 Looking to collaborate on **real-world SDE projects and open source**
 - 🧠 Strong interest in **problem solving, optimization, and clean code practices**
