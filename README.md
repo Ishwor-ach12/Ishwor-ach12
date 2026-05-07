@@ -1,4 +1,4 @@
-<img src="./asset.jpg" width="100%">
+<!--<img src="./asset.jpg" width="100%"> -->
 
 <h1 align="center">Hi 👋, I'm Ishwor Acharya</h1>
 <h3 align="center">Aspiring Software Development Engineer | Problem Solver | Backend & Systems Enthusiast</h3>
